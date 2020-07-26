@@ -9,3 +9,8 @@ C:\Users\huany\Documents\GitHub\ExampleDllMod\RimWorld_ExampleProjectDLL\obj\Deb
 C:\Users\huany\Documents\GitHub\ExampleDllMod\RimWorld_ExampleProjectDLL\obj\Debug\RimWorld_ExampleProjectDLL.csproj.CoreCompileInputs.cache
 C:\Users\huany\Documents\GitHub\ExampleDllMod\RimWorld_ExampleProjectDLL\obj\Debug\RimWorldExampleProjectDLL.dll
 C:\Users\huany\Documents\GitHub\ExampleDllMod\RimWorld_ExampleProjectDLL\obj\Debug\RimWorldExampleProjectDLL.pdb
+E:\github\ExampleDllMod\RimWorld_ExampleProjectDLL\bin\Debug\RimWorldExampleProjectDLL.dll
+E:\github\ExampleDllMod\RimWorld_ExampleProjectDLL\bin\Debug\RimWorldExampleProjectDLL.pdb
+E:\github\ExampleDllMod\RimWorld_ExampleProjectDLL\obj\Debug\RimWorld_ExampleProjectDLL.csprojAssemblyReference.cache
+E:\github\ExampleDllMod\RimWorld_ExampleProjectDLL\obj\Debug\RimWorldExampleProjectDLL.dll
+E:\github\ExampleDllMod\RimWorld_ExampleProjectDLL\obj\Debug\RimWorldExampleProjectDLL.pdb
